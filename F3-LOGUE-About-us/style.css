@@ -1,0 +1,29 @@
+
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #1f1e1b;
+  margin: 150 px;
+  border: 3.5px solid #f2e3d4;
+}
+p {
+  color: #f2e3d4;
+  font-family: "courier new";
+  text-align: center;
+  font-size: 23px;
+   padding-left: 300px;
+   padding-right: 300px;
+  
+}
+h1 {
+  color: #f2e3d4;
+  font-family: "courier new";
+  font-size: 60px;
+  text-align: center;
+   padding-left: 400px;
+   padding-right: 400px;
+}
+ 
+
+
